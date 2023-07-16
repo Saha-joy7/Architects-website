@@ -303,12 +303,16 @@ ul{
         width: 100%;
         height: 80%;
     }
+    .sponser-container-image,
     .facts-container-card{
        flex-direction:column; 
        gap: 20px;
     }
-    
-    
+
+    .sponser-container-image{
+        text-align: center;
+        padding: auto;
+    }
     
 }
 
